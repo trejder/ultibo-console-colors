@@ -1,4 +1,4 @@
-# console-colors
+# Console Colors
 
 This is a primitive Ultibo / Lazarus IDE project for Raspberry 3A/3B/3B+ that does absolutely nothing except for:
 
@@ -19,4 +19,4 @@ This project should be used exactly as all other Ultibo projects, i.e.:
 
 This project was build for my Raspberry Pi 3B+. Should work under other platforms, but I can't guarantee that. And for sure you should copy [firmware files](https://github.com/raspberrypi/firmware) corresponding to your platform in this case.
 
-More details in [this blog article](https://onezeronull.com/2021/05/21/developing-for-raspberry-pi-with-ultibo/) or in [Ultibo FAQ](https://ultibo.org/faq/).
+More details in [this blog article](https://onezeronull.com/2021/07/02/border-less-full-screen-console-app-in-ultibo/) or in [Ultibo FAQ](https://ultibo.org/faq/).
